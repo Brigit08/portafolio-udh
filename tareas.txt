@@ -1,3 +1,5 @@
 ﻿1. Diseñar arquitectura del proyecto
 2. Configurar entorno de desarrollo
 3. Implementar módulo de autenticación
+4. Realizar pruebas unitarias
+5. Desplegar aplicacion en servidor
